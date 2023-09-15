@@ -5,6 +5,8 @@ A Series of docker dev environment configuration template for projects starters
 [中文](README.md) | EN
 
 ## Structure
+
+```
 .
 ├── .devcontainer
 │   ├── container.json
@@ -12,3 +14,4 @@ A Series of docker dev environment configuration template for projects starters
 ├── Dockerfile
 └── src
     └── test.cpp
+```
