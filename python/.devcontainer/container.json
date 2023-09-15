@@ -1,0 +1,12 @@
+{
+    "name": "Project Develop Env",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "projects-dev-python-v1",
+    "workspaceFolder": "/home/dev/projects/",
+
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+
+    "remoteUser": "dev"
+}
